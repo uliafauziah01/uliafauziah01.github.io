@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Contoh Inline CSS</title>
-</head>
-
-<body>
-
+*{
+  text-decoration: none;
+}
+body{
+  margin: 0;
+  background-color: #8cbfb3;
+  color: black;
   
-  <p style="color:maroon">Ini adalah paragraf yang memuat isi artikel. Paragraf ini hanya untuk percobaan saja. Percobaan untuk mendemokan <i>internal css</i>. Seperti namanya, <i>inline CSS</i> adalah kode CSS yang ditulis langsung dalam file HTML.</p>
-</body>
-</html>
+}
